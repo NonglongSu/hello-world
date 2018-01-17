@@ -8,6 +8,7 @@ I am majoy in Bioinformaticals&Biology, and interested in basketball, tennis, sk
 Self-learning japanese, hindi, and spanish.
 
 ================================================
+
 Last semester--- Genome de novo assembly project done. 
 
 This semester, MUlti_Fasta_reverse_complement C++ script on process. 
