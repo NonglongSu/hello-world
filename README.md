@@ -1,17 +1,23 @@
 # hello-world
-store ideas and resources
+Mind-blowing
 
-Hi, Everyone,  My name is Ziqi. Just call me Z if you want to. (What a cool name !!!).
+Hi everybody,  My name is Ziqi. Just call me Z if you want to.
 
-I am majoy in Bioinformaticals&Biology, and interested in basketball, tennis, ski.   
+I am a Phd student major in Bioinformaticals(Biology). 
 
-Self-learning japanese, hindi, and spanish.
+I am especially interested in basketball, tennis, ski, manga, music.   
+
+Passionate about language-learning: japanese, korean, hindi(telugu), vietnamese, Thai, spanish, french, russian, German. 
 
 ================================================
 
-Last semester--- Genome de novo assembly project done. 
+08/2017~12/2017 --- De novo assembly of metagenome inside the guts of Coptotermes_formosanus.
 
-This semester, MUlti_Fasta_reverse_complement C++ script on process. 
+08/2017~05/2018 --- Determine the kmer coverage of each read via median, mean, and harmonic mean. [F]  
+
+01/2018~06/2018 --- Adaptive laboratory experiment of Methanotroph
+
+02/2018~ ...    --- Review and modify potential paper: Repeated quasi-heterozygote advantage after experimental evo of E.coli
 
 
 
